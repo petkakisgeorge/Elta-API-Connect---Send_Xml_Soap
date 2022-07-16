@@ -1,6 +1,6 @@
 # Send_Xml_Soap
 
-A java app that implements a SOAP request to ELTAs WebService.
+A java app that implements a SOAP request to ELTAs API WebService.
 That request contains a build xml file with all transaction info you want to send.
 For example you can see the input.txt file.
 As a response it's getting a VOUCHER number and printing it inside OneVoucher.txt file.
